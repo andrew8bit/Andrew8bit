@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**andrew8bit/Andrew8bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Frontend Developer at Clackd
+- 👨🏽‍🎓 General Assembly Bootcamp Graduate
+- 🌱 I’m currently learning everything 😊
+- 💬 Ask me about my 1989 BMW E30 or my rank on Overcooked 2
 
-Here are some ideas to get you started:
+- 🧐 "My life hobbies includes, slow night drives, hiding behind metaphors, and convicing my shadow I'm someone worth following." 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---- 
+
+## Connect with me
+<br>
+
+<a href="https://www.linkedin.com/in/andrewbith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:andrewbith@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+                                                                                                                                         
+<br>    
+                                                                                                                                         
+-----
+                                                                                                                                         
+## Github Stats
+<br>
+
+[![Andrew8bit's github stats](https://github-readme-stats.vercel.app/api?username=andrew8bit&show_icons=true&theme=dark)](https://github.com/andrew8bit/github-readme-stats)
+
+<br>
