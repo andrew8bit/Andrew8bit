@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew 👋
 
 
-- 💻 Frontend Developer at Clackd
+- 💻 I am an engineer
 - 👨🏽‍🎓 General Assembly Bootcamp Graduate
 - 🌱 I’m currently learning everything 😊
 - 💬 Ask me about my 1989 BMW E30 or my rank on Overcooked 2
